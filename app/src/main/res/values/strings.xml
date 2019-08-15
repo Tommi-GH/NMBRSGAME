@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NMBRS</string>
+    <string name="title_activity_game">NMBRSGAME</string>
+    <string name="getToken">cljAHK1yp4TVZqLnafK3HQ7nMolGQV5X</string>
+    <string name="postToken">7uso4AGbAYHos7eMXDPSCTSrQOMHONvw</string>
+    <string name="gameOver">Game Over!</string>
+    <string name="tryAgain">Try again</string>
+    <string name="backToMenu">Back to menu</string>
+    <string name="scoreSaved">Score saved!</string>
+    <string name="unableToSave">Something went wrong. Couldn\'t save the score, sorry.</string>
+    <string name="scoreBoardURL">https://numbergame-scoreboard.appspot.com/</string>
+    <string name="gameLevel">Choose level</string>
+    <string name="nextInt">%d</string>
+    <string name="gameOverLost">There are no more moves left.\nTime: %s \nWrite your name here if you want to post your score to scoreboard.</string>
+    <string name="gameOverWon">You got all the numbers, well done!.\nTime: %s \nWrite your name here if you want to post your score to scoreboard.</string>
+    <string name="youWon">You Won!!</string>
+</resources>
